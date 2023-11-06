@@ -1,0 +1,6 @@
+<addr>::=<number> <street> <direction> <city> <state>
+<street>::=Avenue|Street|Road|Highway
+<number>::=1st|2nd|3rd|4th|5th|6th|7th|8th|9th
+<direction>::=N|E|S|W|NE|NW|SE|SW
+<state>::=Washington|New York|California|Oregon|Texas
+<City>::=Seattle NYC|Los Angeles|Portland|Austin
